@@ -1,3 +1,5 @@
+# This is the `master` branch -- the code that runs your site is in the `gh-pages` branch!
+
 This repository was originally forked from the **[Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)** theme, by Dean Attali.  The README for the Beautiful Jekyll theme follows below:
 
 ***

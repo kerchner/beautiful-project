@@ -31,4 +31,6 @@ We can do it with a line of markdown that looks like this (without the slashes -
 
 Attempting to embed an RShiny app:
 
-<iframe width="600" height="500" scrolling="no" frameborder="no"  src="https://kerchner.shinyapps.io/rshiny-test/"> </iframe>
+<div class="iframe_container">
+  <iframe width="800" height="700" scrolling="yes" frameborder="no"  src="https://kerchner.shinyapps.io/rshiny-test/"> </iframe>
+</div>

@@ -28,3 +28,7 @@ We can do it with a line of markdown that looks like this (without the slashes -
 \{\% include jupyter-basic_bar.html \%\}
 ```
 {% include jupyter-basic_bar.html %}
+
+Attempting to embed an RShiny app:
+
+<iframe width="600" height="500" scrolling="no" frameborder="no"  src="https://kerchner.shinyapps.io/rshiny-test/"> </iframe>

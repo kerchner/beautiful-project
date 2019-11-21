@@ -8,7 +8,7 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://dhatribadri.github.io/bioinformatics-class-project"
+url: "http://dhatribadri.github.io/bioinformatics-research-project"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -43,8 +43,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Dhatri Badri
+  email: "dhatribadr@gwu.edu"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter

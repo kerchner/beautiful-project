@@ -34,3 +34,9 @@ Attempting to embed an RShiny app:
 <div class="iframe_container">
   <iframe width="800" height="700" scrolling="yes" frameborder="no"  src="https://kerchner.shinyapps.io/rshiny-test/"> </iframe>
 </div>
+
+Embedding a Google Sheet:
+
+<div class="iframe_container">
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSu5plR4pBvk-cYi-uH7xeaWlhPXcHwzHZY51-4VpuvRhQbHzpHE1LuqHHwIBjN8bLNvFH7oS8j-2j2/pubchart?oid=1600182453&amp;format=interactive"></iframe>
+  </div>
